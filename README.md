@@ -7,6 +7,7 @@ Tips:
 - Check out these references that I used:
     - https://css-tricks.com/snippets/css/typewriter-effect/
     - https://www.w3schools.com/css/css3_animations.asp
+    - https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp
 - Take a look at these links in your free time:
     - https://www.youtube.com/watch?v=1Aq9OJuS3ok
     - https://www.youtube.com/watch?v=HZHHBwzmJLk
