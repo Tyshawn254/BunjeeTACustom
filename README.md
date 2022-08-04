@@ -7,8 +7,16 @@ Tips:
 - Check out these references that I used:
     - https://css-tricks.com/snippets/css/typewriter-effect/
     - https://www.w3schools.com/css/css3_animations.asp
-    - 
-
+- Take a look at these links in your free time:
+    - https://www.youtube.com/watch?v=1Aq9OJuS3ok
+    - https://www.youtube.com/watch?v=HZHHBwzmJLk
+- Cool websites that use CSS
+    - https://animate.style/
+    - https://www.supremo.co.uk/typeterms/
+    - https://www.apple.com/macbook-pro-13/
+    - https://www.art4web.co/
+    - https://vlog.it/
+    
 
 Good luck!
 
