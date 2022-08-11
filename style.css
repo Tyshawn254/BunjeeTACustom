@@ -19,10 +19,10 @@ button{
 }
 
 .button{
-    animation-name: bColor;
-    animation-duration: 10s;
-    /* animation-iteration-count: infinite; */
-    /* animation-timing-function: linear; */
+    animation-name: left;
+    animation-duration: 5s;
+    animation-iteration-count: infinite; 
+     /* animation-timing-function: linear;  */
     /* animation-delay: 2s; */
     /* animation-fill-mode: forwards; */
     /* animation: test 10s linear 2s infinite forwards; */
@@ -65,6 +65,30 @@ button{
         background-color:red; 
         left:0px; top:0px;
     }
+}
+
+@keyframes bottom{
+    from{
+        top:0px
+    }
+
+    to{
+        top:800px
+    }
+}
+
+
+@keyframes left{
+0%{left:0px;}
+20%{left:250px;
+    background-color: tan;}
+40%{left:0px;
+    background-color:aqua;}
+60%{right:0px;
+    background-color:chartreuse;}
+80%{right:250px;
+background-color:thistle;}
+100%{right:0px;}
 }
 
 .typewriter h1 {
